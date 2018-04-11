@@ -27,8 +27,6 @@ The Heart of the World lets you choose from an expanded list of spells when you 
 | 4th  | *Banishment, Staggering Smite* |
 | 5th  | *Banishing Smite, Mass Cure Wounds* |
 
-
-
 #### Pact of the Key
 
 When you choose this patron at 1st level, you are required to take the Pact of the Blade feature at 3rd level. When you do, your Pact of the Blade ability is augmented. Your Pact Weapon assumes the form of a key-shaped blade. 
