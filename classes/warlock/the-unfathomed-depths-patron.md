@@ -21,9 +21,9 @@ The Unfathomed Depths lets you choose from an expanded list of spells when you l
 |:----:|:-------------|
 | 1st  | *Create or Destroy Water, Fog Cloud* |
 | 2nd  | *Blindness/Deafness, Silence* |
-| 3rd  | *Bestow Curse, Water Breathing* |
+| 3rd  | *Water Breathing, Watery Sphere* |
 | 4th  | *Control Water, Freedom of Movement* |
-| 5th  | *Maelstrom, Seeming* |
+| 5th  | *Cone of cold, Maelstrom* |
 
 #### Pact of the Key
 
